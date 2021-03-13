@@ -1,0 +1,6 @@
+34This is my data file which I am able to write to
+this is line 0.
+this is line 1.
+this is line 2.
+this is line 3.
+this is line 4.
